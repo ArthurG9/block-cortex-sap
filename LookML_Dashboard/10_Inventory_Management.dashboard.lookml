@@ -130,7 +130,7 @@
     height: 3
   - title: Days of Supply for Top Material Groups
     name: Days of Supply for Top Material Groups
-    model: cortex_sap_operational_d_d
+    model: cortex_sap_operational_d
     explore: inventory_metrics_overview
     type: looker_grid
     fields: [sum_of_quantity_menge_2, inventory_metrics_overview.material_group_name_wgbez,
